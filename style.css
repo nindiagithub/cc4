@@ -1,0 +1,164 @@
+body {
+    position: absolute;
+    background-color: #9C835F;
+    width: 1440px;
+    height: 1024px;
+    left: 0;
+    top: 0;
+}
+
+
+
+.arrow {
+    position: absolute;
+    width: 55px;
+    height: 87px;
+    left: 37px;
+    top: 12px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #724C21;
+
+}
+
+.logo {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 119px;
+    top: 27px;
+}
+
+.header-title {
+    position: absolute;
+    color: #F9B23D;
+    width: 410px;
+    height: 62px;
+    left: 217px;
+    top: 5px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 49px;
+    text-align: center;
+}
+
+.player1 {
+    position: absolute;
+    width: 299px;
+    height: 94px;
+    left: 296px;
+    top: 162px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.com {
+    position: absolute;
+    width: 299px;
+    height: 94px;
+    left: 865px;
+    top: 162px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.player1-stone {
+    position: absolute;
+    width: 128px;
+    height: 92px;
+    left: 382px;
+    top: 267px;
+}
+
+.player1-paper {
+    position: absolute;
+    width: 115px;
+    height: 150px;
+    left: 388px;
+    top: 440px;
+}
+
+.player1-scissors {
+    position: absolute;
+    width: 134px;
+    height: 160px;
+    left: 369px;
+    top: 671px;
+
+}
+.versus {
+    position: absolute;
+    width: 296px;
+    height: 186px;
+    left: 589px;
+    top: 419px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 144px;
+    line-height: 196px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #BD0000;
+}
+
+.com-stone {
+    position: absolute;
+    width: 128px;
+    height: 92px;
+    left: 951px;
+    top: 267px;
+}
+.com-paper {
+    position: absolute;
+    width: 115px;
+    height: 150px;
+    left: 970px;
+    top: 440px;
+}
+.com-scissors {
+    position: absolute;
+    width: 134px;
+    height: 160px;
+    left: 951px;
+    top: 671px;
+}
+
+.refresh {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    left: 681px;
+    top: 843px;
+}
